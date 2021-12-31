@@ -101,8 +101,8 @@ import { onMount } from 'svelte';
 	
 
 	#player-cont {
-		width: 250px;
-		height: 165px;
+		width: 96px;
+		height: 170px;
 		padding: .7rem 1.5rem 0;
 		box-shadow: 0 0 5px black;
 		background: #222;
