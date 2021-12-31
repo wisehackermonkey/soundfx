@@ -40,6 +40,8 @@
 cd ~
 git clone https://github.com/wisehackermonkey/soundfx.git
 cd soundfx
+npm install
+npm run dev
 ```
 
 

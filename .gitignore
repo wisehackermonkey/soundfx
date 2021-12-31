@@ -9,7 +9,8 @@ logs
 npm-debug.log*
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
-node_modules
+
+/node_modules/
 
 
 # vscode workspace files are user-specific
@@ -17,3 +18,6 @@ node_modules
 
 # Folder config file
 Desktop.ini
+/public/build/
+
+.DS_Store
